@@ -1,1 +1,5 @@
 
+//can be done in inspect to edit all parts of web page
+
+document.body.contentEditable = true;
+
